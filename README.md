@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps, Cyber security, and homelabbing
 - 🌱 I’m currently learning Ruby & Chef
 - 💞️ I’m looking to collaborate on homelab ideas
-- 📫 How to reach me brooks.noah12@gmail.com
+- 📫 How to reach me nebdevelop (at) gmail
 - 🌲 Current Treasurer of the University of Maine Cyber Security Team
 
 <!---
