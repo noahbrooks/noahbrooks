@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @noahbrooks
-- 👀 I’m interested in DevOps, Cyber security, and homelabbing
+- 👀 I’m interested in DevOps, cyber security, and homelabbing
 - 🌱 I’m currently learning Ruby & Chef
 - 💞️ I’m looking to collaborate on homelab ideas
 - 📫 How to reach me nebdevelop (at) gmail
